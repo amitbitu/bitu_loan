@@ -12,5 +12,5 @@ class int {
 	public m1(){
 		//logic for jira 101
 	}
-
+	boolean b=false
 }
