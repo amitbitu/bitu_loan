@@ -3,6 +3,7 @@ class int {
 	int b=20;
 
 
+
 	public m2(){
 		//logic for JIRA-102
 	}
@@ -13,4 +14,7 @@ class int {
 		//logic for jira 101
 	}
 
+}
+	string k="g";
+	int c=30;
 }
